@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I’ am Yarmes Vallejos Ramos</h1>
+<h3 align="center">Full Stack Developer | Backend Engineer | DevOps Trainee</h3>
 
-<!--
-**Crygt/Crygt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+ **Web developer full stack**, creando soluciones escalables con tecnologías modernas como **Laravel, Django, Node.js, React y Docker**.  
+Me enfoco en arquitectura limpia, integración de APIs, seguridad y despliegues eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabajo con empresas y clientes desarrollando funcionalidades backend, integraciones, automatizaciones y sistemas completos end-to-end.
+
+---
+
+## 🧠 Especialidades
+- Desarrollo Backend (Laravel · Django · Node.js · Express)
+- APIs REST, autenticación, JWT, middlewares, seguridad
+- Sistemas full stack (React + Backend)
+- Integración con APIs externas (servicios, CRMs, automatizaciones)
+- Docker · Linux · Flujo Git profesional
+- Bases de datos SQL & NoSQL (MySQL, PostgreSQL, MongoDB)
+
+---
+
+## 🛠️ Tecnologías principales
+
+### **Backend**
+- Laravel 10 · PHP  
+- Django REST Framework  
+- Node.js · Express.js  
+- Python (scripts, automatizaciones)
+
+### **Frontend**
+- React · TypeScript  
+- Material UI · TailwindCSS  
+
+### **DevOps**
+- Docker  
+- Kubernetes (iniciando)  
+- CI/CD (GitHub Actions · Tekton)  
+- Servidores Linux · Nginx  
+
+### **Bases de Datos**
+- MySQL · PostgreSQL · MongoDB · SQL Server  
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🔹 Sistema de Control y Gestión (Full Stack)
+React + Django + JWT  
+Panel administrativo, autenticación, roles, reportes y módulos completos.
+
+### 🔹 Integraciones y automatizaciones para empresas  
+Laravel + APIs externas  
+Middlewares, logs, tareas programadas, conversión de datos, ambientes de producción.
+
+### 🔹 Aplicación para gestión de casos (Arquitectura limpia)
+React + Node.js + MongoDB  
+Sistema modular con separación de capas y roles dinámicos.
+
+---
+
+## 📫 Contacto
+- **Email:** vallejosramosyarmes@gmail.com  
+- **GitHub:** https://github.com/Crygt  
+- **LinkedIn:** https://www.linkedin.com/in/yarmes-vallejos-ramos  
+
+---
+
+<h3 align="center">💻 Construyendo soluciones limpias, escalables y profesionales</h3>
+
