@@ -10,7 +10,7 @@ Trabajo con empresas y clientes desarrollando funcionalidades backend, integraci
 
 ---
 
-## 🧠 Especialidades
+## Especialidades
 - Desarrollo Backend (Laravel · Django · Node.js · Express)
 - APIs REST, autenticación, JWT, middlewares, seguridad
 - Sistemas full stack (React + Backend)
@@ -20,7 +20,7 @@ Trabajo con empresas y clientes desarrollando funcionalidades backend, integraci
 
 ---
 
-## 🛠️ Tecnologías principales
+## Tecnologías principales
 
 ### **Backend**
 - Laravel 10 · PHP  
@@ -43,28 +43,28 @@ Trabajo con empresas y clientes desarrollando funcionalidades backend, integraci
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🔹 Sistema de Control y Gestión (Full Stack)
+###  Sistema de Control y Gestión (Full Stack)
 React + Django + JWT  
 Panel administrativo, autenticación, roles, reportes y módulos completos.
 
-### 🔹 Integraciones y automatizaciones para empresas  
+###  Integraciones y automatizaciones para empresas  
 Laravel + APIs externas  
 Middlewares, logs, tareas programadas, conversión de datos, ambientes de producción.
 
-### 🔹 Aplicación para gestión de casos (Arquitectura limpia)
+###  Aplicación para gestión de casos (Arquitectura limpia)
 React + Node.js + MongoDB  
 Sistema modular con separación de capas y roles dinámicos.
 
 ---
 
-## 📫 Contacto
+##  Contacto
 - **Email:** vallejosramosyarmes@gmail.com  
 - **GitHub:** https://github.com/Crygt  
 - **LinkedIn:** https://www.linkedin.com/in/yarmes-vallejos-ramos  
 
 ---
 
-<h3 align="center">💻 Construyendo soluciones limpias, escalables y profesionales</h3>
+<h3 align="center"> Construyendo soluciones limpias, escalables y profesionales</h3>
 
