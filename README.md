@@ -62,7 +62,7 @@ Sistema modular con separación de capas y roles dinámicos.
 ##  Contacto
 - **Email:** vallejosramosyarmes@gmail.com  
 - **GitHub:** https://github.com/Crygt  
-- **LinkedIn:** https://www.linkedin.com/in/yarmes-vallejos-ramos](https://www.linkedin.com/in/yarmes-vallejos-ramos-b1a7162a6/
+- **LinkedIn:**https://www.linkedin.com/in/yarmes-vallejos-ramos-b1a7162a6/
 
 ---
 
