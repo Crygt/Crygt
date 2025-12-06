@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Crygt/Crygt/main/image.png" alt="Yarmes_Dev_Crygt Banner" />
+</p>
+
 <h1 align="center">👋 Hi, I’ am Yarmes Vallejos Ramos</h1>
 <h3 align="center">Full Stack Developer | Backend Engineer | DevOps Trainee</h3>
 
